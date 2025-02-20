@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344471242957",
+    "project_id": "maas-first-app",
+    "storage_bucket": "maas-first-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344471242957:android:04f5bb78e206e055600184",
+        "android_client_info": {
+          "package_name": "com.company.maasfirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2kjur2asZgDhAZOQKNT5UrNH8tdvm0U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
